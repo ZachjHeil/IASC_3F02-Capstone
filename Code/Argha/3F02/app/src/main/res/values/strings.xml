@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shower thoughts</string>
+    <string name="hint">Search</string>
+    <string name="search_notes">Search notes</string>
+    <string name="notes">Notes</string>
+    <string name="todo">TODO</string>
+</resources>
